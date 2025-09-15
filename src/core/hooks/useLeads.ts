@@ -5,7 +5,7 @@ import {
   loadFromStorage,
   STORAGE_KEYS,
 } from "../utils/localStorage";
-import leadsData from "../data/leads.json";
+import { leadsService } from "../services/leads";
 
 const defaultFilters: FilterState = {
   search: "",
@@ -27,8 +27,8 @@ export const useLeads = () => {
   const loadLeads = async () => {
     try {
       setLoading(true);
-      await new Promise((resolve) => setTimeout(resolve, 800));
-      setLeads(leadsData as Lead[]);
+      const leadsData = await leadsService.getLeads();
+      setLeads(leadsData);
       setError(null);
     } catch {
       setError("Failed to load leads. Please try again.");
