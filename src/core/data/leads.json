@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "name": "John Smith",
+    "company": "TechCorp Inc",
+    "email": "john.smith@techcorp.com",
+    "source": "Website",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "2",
+    "name": "Sarah Johnson",
+    "company": "Innovation Labs",
+    "email": "sarah.johnson@innovlabs.com",
+    "source": "LinkedIn",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "3",
+    "name": "Mike Davis",
+    "company": "StartupXYZ",
+    "email": "mike@startupxyz.com",
+    "source": "Referral",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": "4",
+    "name": "Emily Chen",
+    "company": "Global Systems",
+    "email": "emily.chen@globalsys.com",
+    "source": "Cold Email",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "5",
+    "name": "David Wilson",
+    "company": "Future Dynamics",
+    "email": "d.wilson@futuredyn.com",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "contacted"
+  },
+  {
+    "id": "6",
+    "name": "Lisa Brown",
+    "company": "Data Solutions",
+    "email": "lisa@datasolutions.com",
+    "source": "Website",
+    "score": 73,
+    "status": "qualified"
+  },
+  {
+    "id": "7",
+    "name": "Tom Anderson",
+    "company": "Cloud Ventures",
+    "email": "t.anderson@cloudventures.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "new"
+  },
+  {
+    "id": "8",
+    "name": "Jennifer Taylor",
+    "company": "Smart Analytics",
+    "email": "jen.taylor@smartanalytics.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "9",
+    "name": "Robert Kim",
+    "company": "NextGen Solutions",
+    "email": "robert@nextgensol.com",
+    "source": "Cold Email",
+    "score": 59,
+    "status": "disqualified"
+  },
+  {
+    "id": "10",
+    "name": "Amanda White",
+    "company": "Digital Innovations",
+    "email": "amanda.white@diginnovations.com",
+    "source": "Website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "11",
+    "name": "Chris Martinez",
+    "company": "Tech Pioneers",
+    "email": "chris.martinez@techpioneers.com",
+    "source": "Trade Show",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "12",
+    "name": "Rachel Green",
+    "company": "Innovative Systems",
+    "email": "rachel@innovativesys.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "13",
+    "name": "Steven Clark",
+    "company": "Modern Solutions",
+    "email": "steven.clark@modernsol.com",
+    "source": "Referral",
+    "score": 70,
+    "status": "qualified"
+  },
+  {
+    "id": "14",
+    "name": "Michelle Lee",
+    "company": "Advanced Technologies",
+    "email": "michelle@advancedtech.com",
+    "source": "Website",
+    "score": 89,
+    "status": "new"
+  },
+  {
+    "id": "15",
+    "name": "Kevin Thompson",
+    "company": "Strategic Consulting",
+    "email": "kevin.thompson@strategiccons.com",
+    "source": "Cold Email",
+    "score": 63,
+    "status": "contacted"
+  }
+]
